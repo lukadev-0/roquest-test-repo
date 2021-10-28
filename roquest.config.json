@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "dep-name": "lukadev-0/roquest-test-repo-dependency#master"
+  }
+}
